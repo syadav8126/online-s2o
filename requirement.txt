@@ -1,0 +1,6 @@
+django
+pandas
+nsetools
+nsepy
+matplotlib
+plotly
